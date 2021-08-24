@@ -14,3 +14,4 @@
 - 🔭 I’m currently working on Vue 3
 - 🌱 I’m currently learning Vue 3
 - 📫 How to reach me: ckclown1@gmail.com
+- 🐱‍👤 I really like Naruto.
